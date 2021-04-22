@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Adding a config_Jamie.py file to store my API_keys I don't want those pushed to my public repository
+config_Jamie.py
+
 # C extensions
 *.so
 
